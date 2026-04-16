@@ -1,7 +1,7 @@
 # Japanese Tea Ceremony Craft Registry
 
 This registry documents traditional craftsmanship used in the Japanese tea ceremony.  
-Each object in the tea room — chawan, chashaku, natsume, mizusashi, kama — is shaped by specific techniques, materials, and lineages that carry cultural and spiritual meaning.
+Each object in the tea room (chawan, chashaku, natsume, mizusashi, kama) is shaped by specific techniques, materials, and lineages that carry cultural and spiritual meaning.
 
 ## Purpose
 
